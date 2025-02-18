@@ -41,7 +41,7 @@
 // m_vecViewOffset
 0xCB0;
 // m_modelState + 0x80
-0x170;
+0x170 + 0x80;
 // m_iszPlayerName
 0x660;
 // m_pActionTrackingServices
