@@ -37,7 +37,7 @@
 //m_vecOrigin
 0x88
 //m_aimPunchCache
-0x1584
+0x15A8
 //m_vecViewOffset
 0xCB0
 //m_modelState + 0x80
