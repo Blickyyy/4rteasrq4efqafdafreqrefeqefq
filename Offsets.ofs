@@ -23,13 +23,13 @@
 //m_fFlags
 0x3EC
 //m_iShotsFired
-0x23E4
+0x23FC
 //m_vecVelocity
-0x3F0
+0x400
 //m_entitySpottedState + m_bSpotted
 0x11A8 + 0x8
 //m_bIsScoped
-0x23D0
+0x23E8
 //m_pClippingWeapon
 0x13A0
 //m_pGameSceneNode
@@ -43,7 +43,7 @@
 //m_modelState + 0x80
 0x170 + 0x88
 //m_iszPlayerName
-0x770
+0x660
 //m_pActionTrackingServices
 0x730
 //m_iNumRoundKills
@@ -53,4 +53,4 @@
 //m_AttributeManager + m_Item + m_iItemDefinitionIndex
 0xFF0 + 0x50 + 0x1BA
 //m_angEyeAngles
-0x1450
+0x1438
