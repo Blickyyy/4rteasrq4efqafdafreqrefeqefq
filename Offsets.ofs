@@ -27,7 +27,7 @@
 //m_vecVelocity
 0x3F0
 //m_entitySpottedState + m_bSpotted
-0x2290
+0xFA8
 //m_bIsScoped
 0x23D0
 //m_pClippingWeapon
@@ -51,6 +51,6 @@
 //m_unTotalRoundDamageDealt
 0x118
 //m_AttributeManager + m_Item + m_iItemDefinitionIndex
-0x129A
+0x144A
 //m_angEyeAngles
 0x1450
